@@ -1,0 +1,17 @@
+Project 2: Image Classification: predicting surface defect type
+
+Problem Statement: build a classification model that predicts surface defect type from grayscale images of hot-rolled steel strip. 
+
+
+Dataset: 
+Kaggle source: https://www.kaggle.com/datasets/kaustubhdikshit/neu-surface-defect-database
+Dataset size: 3600 images of 6 different types. 
+
+ML Algorithm used: 
+1. Sequential CNN. 
+
+Results/Post Processing/Disclaimer: 
+1. Only 10 epochs are run. More realistic scenario is to run for more epochs. 
+2. Confusion matrix is plotted with per-class classification report. 
+ 
+
