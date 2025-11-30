@@ -1,0 +1,21 @@
+Project 4: regression: NASA airfoil self noise
+
+Problem Statement: compare among 5 regression models to predict NASA airfoil self noise, i.e., sound pressure level (dB) .  
+
+
+Dataset: 
+UCI ML Repo link: https://archive.ics.uci.edu/dataset/291/airfoil%2Bself%2Bnoise 
+Dataset size: ~1500 rows. 
+
+ML Algorithm used and compared: 
+1. Linear Regression, 
+2. Ridge Regression, 
+3. Lasso Regression, 
+4. Random Forest Regression, 
+5. Gradient Boosting. 
+
+
+Results/Post Processing/Disclaimer: 
+1. Graphically shown R2, CV R2, RMSE, and MAE. 
+ 
+
