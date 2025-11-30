@@ -1,0 +1,20 @@
+Project 2: Image Classification: predicting wafer defect type
+
+Problem Statement: build an image classification model that predicts wafer defect type from popular MixedWM38 dataset.  
+
+
+Dataset: 
+Kaggle source: https://www.kaggle.com/datasets/co1d7era/mixedtype-wafer-defect-datasets
+GitHub source: https://github.com/Junliangwangdhu/WaferMap
+Dataset size: ~38k images. 
+
+ML Algorithm used and compared: 
+1. Baseline CNN, 
+2. Baseline CNN with data augmentation, 
+3. Transfer Learning (MobileNetV2).  
+
+Results/Post Processing/Disclaimer: 
+1. 10 epochs gets accuracy of ~100%. 
+2. Confusion matrix is plotted with per-class classification report. 
+ 
+
